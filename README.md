@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Parham Shirinkam
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there;I'm+Parham&color=AB11ED&)](https://git.io/typing-svg)
 
 🎯 **Frontend Developer**  
 🛠️ Passionate about building interactive and responsive user interfaces  
