@@ -16,7 +16,6 @@
 - **Bolt (bolt.new):** Used for experimenting and prototyping during development
 - **Vercel**
 - ...
-- س
 
 ## 💡 About Me
 I love coding — it’s not just work, it’s a way of thinking.  
