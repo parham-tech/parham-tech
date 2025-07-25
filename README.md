@@ -18,7 +18,8 @@
 
 ## 💡 About Me
 I love coding — it’s not just work, it’s a way of thinking.  
-When I’m not diving into frontend code, you’ll find me enjoying action sports and pushing limits outdoors!
+In my free time, I enjoy music, sports, and reading good stories as ways to stay creative and focused.
+
 
 ## 📫 Get in Touch
 - 📧 Email: [parhamshirinkam21@gmail.com](mailto:parhamshirinkam21@gmail.com)
