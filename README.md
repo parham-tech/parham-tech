@@ -6,11 +6,17 @@
 📚 Currently sharpening my skills with real-world projects
 
 ## 🧰 Tech Stack
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
+- **Frontend:** React, TypeScript, CSS (Flexbox & Grid)
+- **Architecture:** SPA
+- **Web Standards:** Web Components (Custom Elements)
+- **Deployment:** Vercel
 
+## 🧠 AI-Assisted Development
+- **ChatGPT (OpenAI):** Used for code assistance and learning
+- **Bolt (bolt.new):** Used for experimenting and prototyping during development
+- **Vercel**
+- ...
+- س
 
 ## 💡 About Me
 I love coding — it’s not just work, it’s a way of thinking.  
