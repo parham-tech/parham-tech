@@ -6,10 +6,9 @@
 📚 Currently sharpening my skills with real-world projects
 
 ## 🧰 Tech Stack
-- **Frontend:** React, TypeScript, CSS (Flexbox & Grid)
+- **Frontend:** Html, CSS (Flexbox & Grid), Js, React
 - **Architecture:** SPA
 - **Web Standards:** Web Components (Custom Elements)
-- **Deployment:** Vercel
 
 ## 🧠 AI-Assisted Development
 - **ChatGPT (OpenAI):** Used for code assistance and learning
