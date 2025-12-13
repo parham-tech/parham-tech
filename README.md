@@ -6,7 +6,7 @@
 📚 Currently sharpening my skills with real-world projects
 
 ## 🧰 Tech Stack
-- **Frontend:** Html, CSS (Flexbox & Grid), Js, React
+- **Frontend:** Html, CSS (Flexbox & Grid), tailwind, Js, React, Next.js
 - **Architecture:** SPA
 - **Web Standards:** Web Components (Custom Elements)
 
@@ -23,7 +23,7 @@ In my free time, I enjoy music, sports, and reading good stories as ways to stay
 
 ## 📫 Get in Touch
 - 📧 Email: [parhamshirinkam21@gmail.com](mailto:parhamshirinkam21@gmail.com)
-- 💼 LinkedIn:
+- 💼 LinkedIn:Parham Shirinkam
 
 ---
 
