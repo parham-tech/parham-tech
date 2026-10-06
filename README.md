@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Parham Shirinkam
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Frontend+Developer;React+%7C+Next.js+Developer;Building+Interactive+Web+Experiences&color=AB11ED)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+Interactive+Web+Experiences&color=AB11ED)](https://git.io/typing-svg)
 
 🎯 **Junior Frontend Developer**  
 🛠️ Passionate about building interactive, responsive, and user-friendly interfaces  
