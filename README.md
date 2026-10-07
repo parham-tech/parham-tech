@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+Interactive+Web+Experiences&color=AB11ED)](https://git.io/typing-svg)
 
-🎯 **Junior Frontend Developer**  
+🎯 **Frontend Developer**  
 🛠️ Passionate about building interactive, responsive, and user-friendly interfaces  
 📚 Improving my skills through real-world projects and modern frontend technologies
 
